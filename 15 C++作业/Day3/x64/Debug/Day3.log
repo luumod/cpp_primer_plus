@@ -1,0 +1,7 @@
+﻿  ccc.cpp
+F:\visual studio\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+L:\Vip15 C++\Day3\ccc.cpp(184,19): warning C4101: “y1”: 未引用的局部变量
+L:\Vip15 C++\Day3\ccc.cpp(184,15): warning C4101: “x1”: 未引用的局部变量
+L:\Vip15 C++\Day3\ccc.cpp(267,19): warning C4101: “y1”: 未引用的局部变量
+L:\Vip15 C++\Day3\ccc.cpp(267,15): warning C4101: “x1”: 未引用的局部变量
+  Day3.vcxproj -> L:\Vip15 C++\Day3\x64\Debug\Day3.exe
