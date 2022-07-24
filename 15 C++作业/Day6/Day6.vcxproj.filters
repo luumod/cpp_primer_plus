@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\函数封装">
+      <UniqueIdentifier>{73a63216-1097-42ef-8fb9-5035a02acc80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\智能指针">
+      <UniqueIdentifier>{b3d8057d-1396-4fc5-902f-a313cae57215}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\封装string">
+      <UniqueIdentifier>{5d0f0dd2-0aca-4522-82d1-929d1b5181dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\自定义类型">
+      <UniqueIdentifier>{b35228a9-c07b-4b27-9931-a62b3e780338}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="自定义.cpp">
+      <Filter>源文件\自定义类型</Filter>
+    </ClCompile>
+    <ClCompile Include="自定义类型.cpp">
+      <Filter>源文件\自定义类型</Filter>
+    </ClCompile>
+    <ClCompile Include="函数.cpp">
+      <Filter>源文件\函数封装</Filter>
+    </ClCompile>
+    <ClCompile Include="智能指针.cpp">
+      <Filter>源文件\智能指针</Filter>
+    </ClCompile>
+    <ClCompile Include="point.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
+      <Filter>源文件\封装string</Filter>
+    </ClCompile>
+    <ClCompile Include="封装string.cpp">
+      <Filter>源文件\封装string</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>源文件\智能指针</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="自定义.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="函数封装.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="string.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

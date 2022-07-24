@@ -1,0 +1,11 @@
+﻿  string.cpp
+L:\Vip15 C++\Day6\string.cpp(11,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+L:\Vip15 C++\Day6\string.cpp(13,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\Vip15 C++\Day6\string.cpp(20,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\Vip15 C++\Day6\string.cpp(32,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\Vip15 C++\Day6\string.cpp(65,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\Vip15 C++\Day6\string.cpp(66,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\Vip15 C++\Day6\string.cpp(84,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+L:\Vip15 C++\Day6\string.cpp(86,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\Vip15 C++\Day6\string.cpp(67): warning C4172: 返回局部变量或临时变量的地址: temp
+  Day6.vcxproj -> L:\Vip15 C++\Day6\x64\Debug\Day6.exe
